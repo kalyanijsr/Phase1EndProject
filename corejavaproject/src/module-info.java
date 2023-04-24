@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kalya
+ *
+ */
+module corejavaproject {
+}

@@ -28,12 +28,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.simplilearn.SimplilearnMaven"/>
 			<item value="com.simplilearn.TesNGProject"/>
 		</list>
 		<list key="groupId">
 			<item value="com.simplilearn"/>
 		</list>
 		<list key="artifactId">
+			<item value="SimplilearnMaven"/>
 			<item value="TesNGProject"/>
 		</list>
 		<list key="projectNameTemplate">
